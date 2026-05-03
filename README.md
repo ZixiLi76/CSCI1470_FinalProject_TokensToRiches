@@ -4,6 +4,8 @@ Authors: Zachk Huang and Zixi Li
 
 This repository predicts later-life earnings, employment, and marriage trajectories from early-adult histories and family background variables using PSID panel data.
 
+Note: Please let us know if you need access to the raw data file as it is too large to be committed to GitHub.
+
 ## Repository Structure
 
 - `data/raw/`: raw PSID input files and external documentation.
