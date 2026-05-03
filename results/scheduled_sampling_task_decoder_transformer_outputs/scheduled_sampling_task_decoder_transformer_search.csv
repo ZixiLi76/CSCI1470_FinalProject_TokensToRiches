@@ -1,0 +1,2 @@
+d_model,n_heads,n_hist_layers,n_task_layers,dropout,lr,weight_decay,batch_size,seed,ss_start,ss_end,ss_warmup,val_earn_mse,best_epoch
+64,4,1,1,0.1,0.001,0.001,128,1470,1.0,0.75,3,0.974334143597888,2
