@@ -1,3 +1,0 @@
-ablation,model,val_earn_mse,best_epoch,d_model,n_heads,n_hist_layers,n_task_layers,dropout,lr,weight_decay,batch_size,seed
-no_static,TASK_DECODER_NO_STATIC,0.9218961664557812,15,64,4,1,1,0.1,0.001,0.001,128,1470
-no_history,TASK_DECODER_NO_EARLY_HISTORY,1.1277083952827036,6,64,4,1,1,0.1,0.001,0.001,128,1470
